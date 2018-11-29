@@ -1,7 +1,6 @@
 #Written By Nile Dixon
 #Description: This is a library for receiving data from the Metro Houston API 
 #Dependencies: requests, json
-#8cc439799d954d73a9902f2d09ac94f4
 
 import requests
 import json
